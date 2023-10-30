@@ -1,7 +1,3 @@
-¡Por supuesto! Aquí tienes un ejemplo de `README.md` para tu aplicación de carrito de compras:
-
----
-
 # Aplicación de Carrito de Compras
 
 Aplicación web simple para agregar productos a un carrito de compras, con la capacidad de aumentar o disminuir la cantidad de cada producto y ver el total a pagar.
