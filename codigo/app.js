@@ -205,7 +205,8 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    function procesarPago() {        
+    function procesarPago() {
+        //a        
         //Aca se puede  agregar lógica para procesar el pago con tarjeta pero no supe hacer el formulario             
         if(carrito.length === 0) {
             alert("El carrito está vacío. Agrega productos antes de pagar.");
